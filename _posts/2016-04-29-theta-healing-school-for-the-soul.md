@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: This is a Theta Healing Test Site
-datePublished: '2016-04-29T15:41:44.286Z'
-dateModified: '2016-04-29T15:41:31.864Z'
+datePublished: '2016-04-29T15:49:21.231Z'
+dateModified: '2016-04-29T15:43:13.159Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-theta-healing-school-for-the-soul.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-29-theta-healing-school-for-the-soul.md
-published: true
+starred: true
 url: theta-healing-school-for-the-soul/index.html
 _type: Article
 
