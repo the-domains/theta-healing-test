@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
-description: This is a Theta Healing Test Site
-datePublished: '2016-04-29T16:16:30.051Z'
-dateModified: '2016-04-29T16:16:29.189Z'
+description: 'Theta Healing, School for the Soul'
+datePublished: '2016-04-29T16:21:50.956Z'
+dateModified: '2016-04-29T15:27:47.871Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-29-theta-healing-school-for-the-soul.md
@@ -18,17 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: theta-healing-school-for-the-soul/index.html
+url: theta-healing/index.html
 _type: Article
 
 ---
-Hello there
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aaf2bba3-f225-4873-afb5-eefb8e235a90.jpg)
 
-This is deep shit
-
-We get into it and we lose it
-
-We are stuck!!!!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69a86263-e774-4008-a9bb-8789d05e6a3d.jpg)
-
-This is a Theta Healing Test Site
+Theta Healing, School for the Soul
