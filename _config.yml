@@ -1,0 +1,28 @@
+name: Theta Healing Test
+favicon: null
+layout_spectrum: 0.021569140953943133
+typography_spectrum: 0.9486290987115353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.690474625909701
+  lightness: 0.25848384760320187
+  saturation: 0.3793298942036927
+  rhythmicContrast: 0.17893832456320524
+purpose: []
